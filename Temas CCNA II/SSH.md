@@ -62,7 +62,7 @@ Autenticar de forma local un usuario.
 S1(config)# username [username] secret [password]
 ```
 
-Esto **añadirá** a la base de datos del dispositivo, en este caso, un Switch, el **usuario** y su contraseña para poder **conectarse** a través de ssh de forma **remota**.
+Esto **añadirá** a la base de datos del dispositivo, en este caso, un Switch de nombre `S1`, el **usuario** y su contraseña para poder **conectarse** a través de ssh de forma **remota**.
 
 #### Paso 5
 
