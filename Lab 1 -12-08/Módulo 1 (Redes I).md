@@ -8,7 +8,7 @@ Los **servidores** son computadoras con software que les permite proporcionar in
 Los **dispositivos intermedios** conectan los dispositivos finales individuales a la red. Pueden conectar múltiples redes individuales para formar una red interna.
 
 > [!example] Representaciones de red
-> ![[Pasted image 20250805091247.png | 800 | center]]
+> ![[Pasted image 20250805091247.png| 800 | center]]
 
 Una **red tolerante a fallas** es aquella que limita la cantidad de dispositivos afectados durante una falla. Está construido para permitir una recuperación rápida cuando se produce una falla de este tipo. Estas redes dependen de varias rutas entre el origen y el destino del mensaje. Si falla una ruta, los mensajes se pueden enviar inmediatamente por otro enlace. El hecho de que haya varias rutas que conducen a un destino se denomina **redundancia**.
 
