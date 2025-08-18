@@ -67,19 +67,21 @@ Supongamos que tenemos PC1 y PC2, donde PC1 se quiere comunicar con PC2.
 | MAC origen | Puerto Origen |
 | ---------- | ------------- |
 | AB:CD:E1   | fa0/1         |
-| AB:CD:E2   | fa0/2         |
+| AB:CD:E2   | fa0/3         |
 ### Resultado
 
-La próxima vez que **PC1** envíe algo a **PC2**, el switch revisa la tabla, ve que la MAC de destino `AB:CD:E2` está en **Fa0/3**, y envía la trama **directamente** por ese puerto (en lugar de inundar usando unidifusión desconocida).
+La próxima vez que **PC1** envíe algo a **PC2**, el switch revisa la tabla, ve que la MAC de destino `AB:CD:E2` está en **Fa0/3**, y envía la trama **directamente** por ese puerto (en lugar de *inundar* usando unidifusión desconocida).
 
 Adicionalmente, las direcciones agregadas tienen un temporizador, digamos que la tabla se vería como algo así:
 
 | MAC origen | Puerto Origen | Temporizador |
 | ---------- | ------------- | ------------ |
 | AB:CD:E1   | fa0/1         | 5s           |
-| AB:CD:E2   | fa0/2         | 1s           |
+| AB:CD:E2   | fa0/3         | 1s           |
 
-La cual refresca la tabla con la última adición; [[#Temporizador|Clic aquí]] para ver directamente sobre el Temporizador.
+La cual refresca la tabla con la última adición
+
+> [!todo] [[#Temporizador|Clic aquí]] para ver directamente sobre el Temporizador.
 
 > [!question] ¿Qué ocurriría si quisiera enviar una trama desde PC1 (fa0/1) a PC4 (fa0/4)?
 
@@ -101,7 +103,7 @@ La cual refresca la tabla con la última adición; [[#Temporizador|Clic aquí]] 
 | MAC origen | Puerto Origen |
 | ---------- | ------------- |
 | AB:CD:E1   | fa0/1         |
-| AB:CD:E2   | fa0/2         |
+| AB:CD:E2   | fa0/3         |
 | AB:CD:E4   | fa0/4         |
 
 #### Temporizador

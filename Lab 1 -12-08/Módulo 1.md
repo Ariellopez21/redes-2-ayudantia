@@ -7,7 +7,7 @@ tags:
   - Tema
   - descripcion
 ---
-
+$$\sum\limits_{i=1}^{N}$$
 # SVI
 
 ![[SVI#VLAN de administración]]
