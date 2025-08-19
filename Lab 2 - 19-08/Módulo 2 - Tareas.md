@@ -37,19 +37,21 @@ Al cabo de 1 hora, se da cuenta que debía seguir las indicaciones que dejó su 
 - Los servidores deben estar conectados a los GigabitEthernet en orden de menor MAC a mayor MAC.
 - Los PC deben estar conectados a los FastEthernet que le corresponden según su MAC, por ejemplo, el PC3 tiene MAC A0:03, entonces le corresponde el Fa0/3.
 
-Durante el transcurso de esta hora, los dispositivos estuvieron enviando y recibiendo una serie de tráfico cada 10 minutos, un dispositivo a la vez y sin interrupciones. El temporizador de la tabla de direcciones MAC se encuentra en 30 minutos. Tu primera misión es realizar la tabla de direcciones MAC de la siguiente serie de tráfico que ocurrió durante este período:
+Durante el transcurso de esta hora, los dispositivos estuvieron **enviando y recibiendo** una serie de tráfico cada 10 minutos, un dispositivo a la vez y sin interrupciones. El temporizador de la tabla de direcciones MAC tiene como **límite 30 minutos**. Tu primera misión es realizar la tabla de direcciones MAC de la siguiente serie de tráfico que ocurrió durante este período:
 
-- **t = 0m:** PC1 → PC2
-- **t = 10m:** PC2 → KATAIX
-- **t = 20m:** PC4 → PC1
-- **t = 30m:** KATAIX → HAIN
-- **t = 40m:** PC2 → HAIN
-- **t = 50m:** HAIN → PC3
-- **t = 60m:** HAIN → KATAIX
+- **t = 0m:** PC1 → PC2; PC2 → PC1
+- **t = 10m:** PC2 → KATAIX; KATAIX → PC2
+- **t = 20m:** PC4 → PC1; PC1 → PC4
+- **t = 30m:** KATAIX → HAIN; HAIN → KATAIX
+- **t = 40m:** PC2 → HAIN; HAIN → PC2
+- **t = 50m:** HAIN → PC3; PC3 → HAIN
+- **t = 60m:** HAIN → KATAIX; KATAIX → HAIN
 
 Luego, dibuja la conexión tal como se le indicó en la nota que le dejó su jefe al ayudante y vuelve a hacer el seguimiento de las tablas de direcciones MAC durante el flujo de los siguientes 30 minutos:
 
-- **t = 0m:** PC1 → PC3
-- **t = 10m:** PC3 → KATAIX
-- **t = 20m:** PC1 → PC4
-- **t = 30m:** KATAIX → PC1
+- **t = 0m:** PC1 → PC3; PC3 → PC1 
+- **t = 10m:** PC3 → KATAIX; KATAIX → PC3
+- **t = 20m:** PC1 → PC4; PC4 → PC1
+- **t = 30m:** KATAIX → PC1; PC1 → KATAIX
+
+> [!success] Se debe realizar la Tabla de direcciones MAC tras el transcurso de los primeros 60 minutos, la reestructuración de puertos del Switch, y la Tabla de direcciones MAC tras la reestructuración y los próximos 30 minutos de tráfico.

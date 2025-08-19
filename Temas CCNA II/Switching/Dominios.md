@@ -48,6 +48,6 @@ A continuación 3 ejemplos de dominio de difusión, donde cada sigla en los dibu
 
 > [!NOTE] Dominio de difusión 3
 > ![[Excalidraw/Módulo 2.md#^frame=mYx_rqmPFsV2gf4WZhYna | 600 | center]]
-> Suponiendo que el Switch de capa 3 actúa como router en todos sus puertos, este es un ejemplo donde se observan 6 dominios de difusión.
+> Suponiendo que el Switch de capa 3 actúa como router en todos sus puertos, este es un ejemplo donde se observan ==6 o 7 dominios de difusión==.
 
 Cuando un switch recibe una trama de difusión, la reenvía por cada uno de sus puertos, excepto por el puerto de entrada en el que se recibió la trama de difusión. Cada dispositivo conectado al switch recibe una copia de la trama de difusión y la procesa.
