@@ -1,11 +1,12 @@
 ---
 Fecha: 12-08-2025
 Tema: Configuración básica de Switch y Router
-Descripción: Junto a Módulo 1 - Tareas
+Descripción: Se explican conceptos básicos que servirán a lo largo de los Módulos
 tags:
   - Fecha
   - Tema
   - descripcion
+Tarea: true
 ---
 
 # SVI

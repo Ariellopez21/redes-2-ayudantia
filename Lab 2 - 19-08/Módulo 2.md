@@ -1,7 +1,12 @@
 ---
 Fecha: 19-08-2025
 Tema: Conceptos de Switching
-Descripción: Junto a Módulo 2 - Tareas
+Descripción: Se explica cómo funciona un Switch
+tags:
+  - Fecha
+  - Tema
+  - descripcion
+Tarea: true
 ---
 
 

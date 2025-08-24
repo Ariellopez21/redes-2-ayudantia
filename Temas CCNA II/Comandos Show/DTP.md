@@ -1,0 +1,1 @@
+- `show dtp interface [interface][interface-id]`
