@@ -11,8 +11,7 @@
 - Tu nota en las ayudantías comienza con un `7.0` y **cada tarea no entregada** implica una resta porcentual a esta nota.
 
 > [!example] Ejemplo
-> - Entregué 9 de 10 tareas, mi nota será $\rightarrow 7.0 \times 90\%$
-> - O sea, `6,3`
+> - Entregué 9 de 10 tareas, mi nota será $\rightarrow 7.0 \times 0.9$, o sea, `6,3`
 
 Y tus notas se verían así:
 
@@ -31,7 +30,24 @@ Y tus notas se verían así:
 | 19-08       | Si           | Conceptos de Switching                                       |
 | 26-08       | Si           | Configuración básica de VLAN en Capa 2                       |
 
+## Dónde, cómo y qué enviar
+
+
+> [!info] Mi correo
+> arilopez@umag.cl
+
+> [!info] Asunto
+> Redes 2 - Lab N°X: Nombre
+> Ej: Redes 2 - Lab N°3 Ariel
+
+> [!info] Qué enviar
+> Depende la tarea, será un `.pkt` o un documento Word, un pdf, etc. 
+> Los archivos deben describirse de la misma forma que el asunto.
+> Ej: Redes 2 - Lab N°3 Ariel.pkt
+
 # Sobre los apuntes
+
+## Obsidian
 
 Instala obsidian desde el siguiente link (en windows de preferencia).
 
