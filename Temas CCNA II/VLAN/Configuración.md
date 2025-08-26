@@ -121,9 +121,9 @@ S1(config-if)# switchport trunk allowed vlan [vlan-list]
 > Donde cada una corresponde a una VLAN de tráfico excepto la VLAN 99 que es administrativa y nativa al mismo tiempo.
 > ```bash
 > S1(config)# interface fastEthernet 0/1
-S1(config-if)# switchport mode trunk
-S1(config-if)# switchport trunk native vlan 99
-S1(config-if)# switchport trunk allowed vlan 10,20,30,99
+> S1(config-if)# switchport mode trunk
+> S1(config-if)# switchport trunk native vlan 99
+> S1(config-if)# switchport trunk allowed vlan 10,20,30,99
 > ```
 
 #### Eliminar Puerto Troncal y Nativo

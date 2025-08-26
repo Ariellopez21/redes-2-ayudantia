@@ -32,4 +32,6 @@ Tarea:
 
 ![[Configuración]]
 
+# DTP
+
 ![[Temas CCNA II/VLAN/DTP]]
