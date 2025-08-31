@@ -57,6 +57,8 @@ S1(config-if)# mdix auto
 
 ###### Configurar VLAN: Crear
 
+Crea un SVI
+
 ```bash
 S1(config)# interface vlan [id]
 S1(config-if)# ip address [ipv4-address] [subnet-mask]

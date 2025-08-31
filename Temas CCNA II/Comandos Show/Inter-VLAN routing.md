@@ -1,0 +1,4 @@
+- `show ip route | begin Gateway`: Para obtener las subinterfaces configuradas con el método router-on-a-stick
+- `show ip interface brief | include up`: Para obtener las subinterfaces configuradas con el método router-on-a-stick
+- `show interfaces [sub-int]`: Ejemplo de sub-int `g0/0/0.10`, esto mostrará a detalle la subinterfaz de `g0/0/0`.
+- `show interfaces trunk`: Mostrará aquellas interfaces configuradas con el **encapsulamiento 802.1q**.

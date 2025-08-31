@@ -47,6 +47,14 @@ Y tus notas se verían así:
 
 # Sobre los apuntes
 
+## Valoración
+
+Estos apuntes tienen como objetivo presentar de forma simplificada y estructurada los contenidos del curso oficial de Cisco. Si bien procuro mantener la objetividad y la precisión, pueden existir ejemplos aproximados, interpretaciones limitadas o simplificaciones que no reflejen en su totalidad la intención original del material.
+
+Por este motivo, se recomienda utilizarlos únicamente como **apoyo complementario** y no como **sustituto** de la documentación oficial de Cisco.
+
+El lector es responsable de contrastar la información con las fuentes oficiales. Se agradece cualquier retroalimentación o contribución que ayude a mejorar estos apuntes, la cual puede realizarse mediante _pull requests_ en este repositorio.
+
 ## Obsidian
 
 Instala obsidian desde el siguiente link (en windows de preferencia).

@@ -2,7 +2,7 @@
 
 Según lo visto con anterioridad, se determinó la siguiente tarea:
 
-![[Módulo 1 - Tareas#VLAN]]
+![[Lab 1 - 12-08/Tarea#VLAN]]
 
 
 > [!NOTE] Nota
@@ -28,4 +28,4 @@ Según lo visto con anterioridad, se determinó la siguiente tarea:
 
 
 > [!NOTE] Nota
-> Guarde esta red porque nos servirá para el [[Módulo 4|Próximo módulo]].
+> Guarde esta red porque nos servirá para el [[Lab 4 - 02-09/Módulo 4|Próximo módulo]].

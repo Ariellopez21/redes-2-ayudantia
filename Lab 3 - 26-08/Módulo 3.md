@@ -10,7 +10,7 @@ Tarea:
 ---
 
 # Descripción de las VLAN
-![[Descripción]]
+![[Temas CCNA II/VLAN/Descripción]]
 
 # Tipos de VLAN
 

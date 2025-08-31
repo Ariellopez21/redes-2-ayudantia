@@ -6,6 +6,10 @@ Por motivos de seguridad, se considera una práctica recomendada utilizar una VL
 
 > [!info] Switch VLAN Interface, es la configuración de las VLAN en un switch.
 
+La SVI se activa de la siguiente forma:
+
+![[Temas CCNA II/Comandos#Configurar VLAN Crear|Comandos]]
+
 ---
 
 > [!example] Nota sobre SVI
