@@ -22,13 +22,14 @@ Y tus notas se verían así:
 
 ## Actualización
 
-#fecha 26-08-2025
+#fecha 02-09-2025
 
 | Laboratorio | ¿Hubo tarea? | Acerca de                                                    |
 | ----------- | ------------ | ------------------------------------------------------------ |
 | 12-08       | Si           | Diagnóstico CCNA I y configuración básica de Switch y Router |
 | 19-08       | Si           | Conceptos de Switching                                       |
 | 26-08       | Si           | Configuración básica de VLAN en Capa 2                       |
+| 02-09       | Si           | Inter-VLAN Routing                                           |
 
 ## Dónde, cómo y qué enviar
 
