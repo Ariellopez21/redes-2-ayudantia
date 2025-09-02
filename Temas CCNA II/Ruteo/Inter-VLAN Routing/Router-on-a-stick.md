@@ -75,6 +75,9 @@ En el switch S2, repetimos la mayoría de pasos pero con el siguiente detalle:
 
 - Ingresamos a la interfaz `int vlan 99` y le asignamos la ip `192.168.99.3` con máscara `255.255.255.0`
 
+> [!warning] ¡Sobre las VLANS!
+> Es importante que ambas VLANs estén creadas en ambos switches, a pesar de que solo se permite el acceso a 1 VLAN por switch.
+
 En el router R1:
 
 - Ingresamos a la subinterfaz ``G0/0/0.10``, ``G0/0/0.20`` y ``G0/0/0.99``

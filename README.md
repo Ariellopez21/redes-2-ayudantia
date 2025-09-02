@@ -57,6 +57,8 @@ El lector es responsable de contrastar la información con las fuentes oficiales
 
 ## Obsidian
 
+Se recomienda el uso de **Obsidian** para la lectura de los apuntes.
+
 Instala obsidian desde el siguiente link (en windows de preferencia).
 
 > [!info] Debido a que Packet Tracer funciona mejor en Windows.

@@ -3,7 +3,7 @@
 
 ![[Temas CCNA II/Ruteo/Inter-VLAN Routing/Descripción|Descripción]]
 
-# Método 1: Inter-VLAN routing
+# Método 1: Inter-VLAN routing Heredado
 
 ![[Heredado]]
 
@@ -15,3 +15,6 @@
 
 ![[Switch de capa 3 con SVIs]]
 
+# Resolución de problemas
+
+![[Problemas de VLAN]]
