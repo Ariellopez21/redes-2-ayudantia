@@ -1,6 +1,6 @@
 # Proposito
 
-
+![[Redundancia]]
 
 ## Qué es STP
 
