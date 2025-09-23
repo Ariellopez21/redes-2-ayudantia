@@ -12,3 +12,5 @@
 # Problemas comunes
 
 ![[Problemas de EtherChannel]]
+
+![[Temas CCNA II/EtherChannel/Comandos|Comandos]]

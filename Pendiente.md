@@ -1,0 +1,4 @@
+- [ ]  Conectarse por ssh a un switch
+- [ ] Usar el modo debug en STP para ver la negociacion entre primary y secundary (o algo asi entendi)
+- [ ]  Hacer el ejercicio que hicimos de STP con 4 switches pero ahora usando más de 1 vlan (y por ende, deberíamos usar unos 5 o 6 switches)
+- [ ] Hacer etherchannel con más de 1 vlan. 
