@@ -30,6 +30,9 @@ Y tus notas se verían así:
 | 19-08       | Si           | Conceptos de Switching                                       |
 | 26-08       | Si           | Configuración básica de VLAN en Capa 2                       |
 | 02-09       | Si           | Inter-VLAN Routing                                           |
+| 09-09       | Si           | Spaning Tree Protocol                                        |
+| 16-09       | No           | **Feriado**                                                  |
+| 23-09       | Si           | EtherChannel                                                 |
 
 ## Dónde, cómo y qué enviar
 
@@ -54,7 +57,7 @@ Estos apuntes tienen como objetivo presentar de forma simplificada y estructurad
 
 Por este motivo, se recomienda utilizarlos únicamente como **apoyo complementario** y no como **sustituto** de la documentación oficial de Cisco.
 
-El lector es responsable de contrastar la información con las fuentes oficiales. Se agradece cualquier retroalimentación o contribución que ayude a mejorar estos apuntes, la cual puede realizarse mediante _pull requests_ en este repositorio.
+El lector es responsable de contrastar la información con las fuentes oficiales. Se agradece cualquier retroalimentación o contribución que ayude a mejorar estos apuntes.
 
 ## Obsidian
 

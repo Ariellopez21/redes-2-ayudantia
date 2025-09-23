@@ -30,7 +30,7 @@ Tarea:
 
 # Configuración y Comandos
 
-![[Configuración]]
+![[Temas CCNA II/VLAN/Configuración]]
 
 # DTP
 
