@@ -3,7 +3,7 @@
 
 # Protocolos
 
-![[Protocolos]]
+![[Protocolos de negociación automática]]
 
 # Configuración
 

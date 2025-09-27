@@ -8,7 +8,7 @@ Por motivos de seguridad, se considera una práctica recomendada utilizar una VL
 
 La SVI se activa de la siguiente forma:
 
-![[Temas CCNA II/Comandos#Configurar VLAN Crear|Comandos]]
+![[Temas CCNA II/Módulo 1/Comandos#Configurar VLAN Crear|Comandos]]
 
 ---
 
