@@ -22,7 +22,7 @@ Y tus notas se verían así:
 
 ## Actualización
 
-#fecha 02-09-2025
+#fecha 05-10-2025
 
 | Laboratorio | ¿Hubo tarea? | Acerca de                                                    |
 | ----------- | ------------ | ------------------------------------------------------------ |
@@ -33,6 +33,9 @@ Y tus notas se verían así:
 | 09-09       | Si           | Spaning Tree Protocol                                        |
 | 16-09       | No           | **Feriado**                                                  |
 | 23-09       | Si           | EtherChannel                                                 |
+| 30-09       | Si           | DHCPv4 + ¿DHCPv6?                                            |
+| 07-09       | No           | -                                                            |
+| 14-09       | -            | -                                                            |
 
 ## Dónde, cómo y qué enviar
 
