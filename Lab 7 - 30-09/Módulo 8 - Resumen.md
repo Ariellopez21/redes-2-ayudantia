@@ -1,0 +1,3 @@
+Considero que la explicación del Módulo 8 de CISCO es bastante compleja y redundante en varios puntos del módulo, lo que termina dificultando el entendimiento correcto del protocolo y del servidor DHCPv6 con sus distintas variaciones.
+
+Dentro de la carpeta **Excalidraw** se encuentra el archivo **Módulo 8 - Diapos**, donde se pretende que cada Frame generado se vea como una diapositiva de una presentación, la cual contiene de manera muy resumida cómo es que se realiza el funcionamiento casi en su completitud del flujo que existe en este módulo.

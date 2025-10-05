@@ -1,0 +1,4 @@
+- `show running-config | section dhcp`: Muestra los comandos DHCPv4.
+- `shwo ip dhcp binding`: Muestra una lista de todos los enlaces de direcciones IPv4 a direcciones MAC proporcionadas por el servicio DHCPv4.
+- `show ip dhcp server statistics`: Muestra información que han sido enviados y recibidos por el servidor DHCPv4.
+- `show ip interface [int][id]`: Mostrará el `helper-address` configurado en la interfaz.
