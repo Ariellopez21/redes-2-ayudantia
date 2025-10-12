@@ -22,7 +22,7 @@ Y tus notas se verían así:
 
 ## Actualización
 
-#fecha 05-10-2025
+#fecha 12-10-2025
 
 | Laboratorio | ¿Hubo tarea? | Acerca de                                                    |
 | ----------- | ------------ | ------------------------------------------------------------ |
@@ -33,9 +33,9 @@ Y tus notas se verían así:
 | 09-09       | Si           | Spaning Tree Protocol                                        |
 | 16-09       | No           | **Feriado**                                                  |
 | 23-09       | Si           | EtherChannel                                                 |
-| 30-09       | Si           | DHCPv4 + ¿DHCPv6?                                            |
+| 30-09       | Si           | DHCPv4                                                       |
 | 07-09       | No           | -                                                            |
-| 14-09       | -            | -                                                            |
+| 14-09       | Si           | FHRP + DHCPv4                                                |
 
 ## Dónde, cómo y qué enviar
 
@@ -100,3 +100,31 @@ Una vez presionado el botón **Activar complementos creados por la comunidad**, 
 
 Luego, has clic en **Instalar**, seguido de **Activar**, y listo.
 
+### Sobre el modo presentación de excalidraw
+
+Al abrir un archivo de excalidraw, en el lado derecho se encuentra una barra en donde uno de los iconos es el símbolo de obsidian. Hazle clic y se abrirá el **Utility actions**.
+
+> [!NOTE] Utility actions
+> ![[Pasted image 20251012170948.png|center]]
+
+Haz clic en *Instalar o actualizar scripts de Excalidraw*, y se abrirá una ventana adicional con un buscador, dentro de dicho buscador escribe **slideshow**.
+
+> [!NOTE] Buscar slideshow
+> ![[Pasted image 20251012171215.png|center]]
+
+Al hacerle clic, irás al título de **Slideshow**, instálalo o actualízalo en caso de ya tenerlo instalado.
+
+> [!NOTE] Instalar Slideshow
+> ![[Pasted image 20251012171300.png|center]]
+
+Por precaución, cierra y vuelve a abrir tu baúl de obsidian.
+
+Cuando vuelvas a abrirlo, abre un archivo de excalidraw, (prueba con este [[Módulo 8 - Diapos.excalidraw]])
+
+Ahora, vuelve a acceder al icono de Obsidian donde se hallaba el **Utility actions**, y ve hasta el fondo a la sección **Downloaded**, allí encontrarás el **Slideshow** que acabas de instalar y podrás ver los Frames diseñados en el excalidraw en formato de slides como si fuera una presentación.
+
+> [!NOTE] Dónde hallar Slideshow
+> ![[Pasted image 20251012171553.png]]
+
+> [!NOTE] Ejemplo de uso
+> ![[Pasted image 20251012171722.png|600|center]]
