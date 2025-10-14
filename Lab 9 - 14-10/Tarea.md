@@ -19,9 +19,13 @@ Detalles a tomar en consideración:
 
 Esta es una preparación para la tarea final que contendrá todo lo visto.
 
-En base a la [[#Parte 1]] modificaremos la subred 192.168.11.0/24, para que hallan 3 hosts extras y que el **servidor será un DHCPv4**.
+En base a la [[#Parte 1]] modificaremos la subred 192.168.11.0/24, para que hallan 3 hosts extras y que el **servidor presente será un DHCPv4** que brindará direcciones ip a cada host.
 
-Adicionalmente, en la **subred inferior** (192.168.10.0/24), vamos a configurar los routers para que funcionen como **agentes retransmisores** para entregarle a PC1 una **configuración del servidor DHCPv4** que se encuentra en la red superior (192.168.11.0/24).
+Para el servidor DHCPv4 debe considerar:
+- Comenzar desde la ip `.101`.
+- Permitir solo `64` hosts.
+
+Adicionalmente, en la **subred inferior** (192.168.10.0/24), también le entregaremos a PC1 una dirección IPv4 proveniente del servidor que se encuentra en la red superior (192.168.11.0/24).
 
 > [!important] ¡Importante!
 > Ambas partes corresponden a una única entrega.
