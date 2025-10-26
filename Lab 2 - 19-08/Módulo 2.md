@@ -12,7 +12,7 @@ Tarea: true
 
 ![[Switching]]
 
-![[Tabla de direcciones MAC]]
+![[Temas CCNA II/Switching/Tabla de direcciones MAC]]
 
 ![[Métodos de reenvío]]
 

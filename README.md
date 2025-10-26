@@ -22,20 +22,22 @@ Y tus notas se verían así:
 
 ## Actualización
 
-#fecha 12-10-2025
+#fecha 14-10-2025
 
-| Laboratorio | ¿Hubo tarea? | Acerca de                                                    |
-| ----------- | ------------ | ------------------------------------------------------------ |
-| 12-08       | Si           | Diagnóstico CCNA I y configuración básica de Switch y Router |
-| 19-08       | Si           | Conceptos de Switching                                       |
-| 26-08       | Si           | Configuración básica de VLAN en Capa 2                       |
-| 02-09       | Si           | Inter-VLAN Routing                                           |
-| 09-09       | Si           | Spaning Tree Protocol                                        |
-| 16-09       | No           | **Feriado**                                                  |
-| 23-09       | Si           | EtherChannel                                                 |
-| 30-09       | Si           | DHCPv4                                                       |
-| 07-09       | No           | -                                                            |
-| 14-09       | Si           | FHRP + DHCPv4                                                |
+| Laboratorio | ¿Hubo tarea? | Acerca de                                                    | Contenidos           |
+| ----------- | ------------ | ------------------------------------------------------------ | -------------------- |
+| 12-08       | Si           | Diagnóstico CCNA I y configuración básica de Switch y Router | -                    |
+| 19-08       | Si           | Conceptos de Switching                                       | -                    |
+| 26-08       | Si           | Configuración básica de VLAN en Capa 2                       | -                    |
+| 02-09       | Si           | Inter-VLAN Routing                                           | -                    |
+| 09-09       | Si           | Spaning Tree Protocol                                        | -                    |
+| 16-09       | No           | **Feriado**                                                  | -                    |
+| 23-09       | Si           | EtherChannel                                                 | -                    |
+| 30-09       | Si           | DHCPv4                                                       | DHCPv4 y DHCPv6      |
+| 07-09       | No           | -                                                            | -                    |
+| 14-09       | Si           | FHRP + DHCPv4                                                | -                    |
+| 21-09       | No           | -                                                            | Práctico Final pt. 1 |
+| 30-09       | No           | -                                                            | Módulo 10 y 11       |
 
 ## Dónde, cómo y qué enviar
 
@@ -51,6 +53,10 @@ Y tus notas se verían así:
 > Depende la tarea, será un `.pkt` o un documento Word, un pdf, etc. 
 > Los archivos deben describirse de la misma forma que el asunto.
 > Ej: Redes 2 - Lab N°3 Ariel.pkt
+
+## Requisito
+
+Al final del curso, hay un Examen Práctico que realiza el profe, para poder dar dicho examen, es necesario haber entregado con éxito todas las tareas asignadas ([[#Actualización|ver actualización]]).
 
 # Sobre los apuntes
 
