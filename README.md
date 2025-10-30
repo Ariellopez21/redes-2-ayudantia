@@ -34,10 +34,15 @@ Y tus notas se verían así:
 | 16-09       | No           | **Feriado**                                                  | -                    |
 | 23-09       | Si           | EtherChannel                                                 | -                    |
 | 30-09       | Si           | DHCPv4                                                       | DHCPv4 y DHCPv6      |
-| 07-09       | No           | -                                                            | -                    |
-| 14-09       | Si           | FHRP + DHCPv4                                                | -                    |
-| 21-09       | No           | -                                                            | Práctico Final pt. 1 |
-| 30-09       | No           | -                                                            | Módulo 10 y 11       |
+| 07-10       | No           | -                                                            | -                    |
+| 14-10       | Si           | FHRP + DHCPv4                                                | -                    |
+| 21-10       | No           | -                                                            | Práctico Final pt. 1 |
+| 30-10       | No           | -                                                            | Módulo 10 y 11       |
+| 04-11       | -            | -                                                            | Módulo 12 y 13       |
+| 11-11       | -            | -                                                            | Módulo 14 o 15       |
+| 18-11       | -            | -                                                            | Práctica Final pt. 2 |
+| **24-11**   | **-**        | **PLAZO ENTREGA TAREAS**                                     | **-**                |
+| 25-11       | -            | Apertura Exámenes Finales con Profe Canumán.                 | -                    |
 
 ## Dónde, cómo y qué enviar
 
