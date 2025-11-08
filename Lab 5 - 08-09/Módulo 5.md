@@ -10,7 +10,7 @@
 ![[Bucles]]
 # Funcionamiento
 
-![[Funcionamiento]]
+![[Temas CCNA II/STP/Funcionamiento]]
 # Evolución
 
 ![[Evolución]]
