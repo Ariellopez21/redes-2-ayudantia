@@ -22,7 +22,7 @@ Y tus notas se verían así:
 
 ## Actualización
 
-#fecha 14-10-2025
+#fecha 15-11-2025
 
 | Laboratorio | ¿Hubo tarea? | Acerca de                                                    | Contenidos           |
 | ----------- | ------------ | ------------------------------------------------------------ | -------------------- |
@@ -39,7 +39,7 @@ Y tus notas se verían así:
 | 21-10       | No           | -                                                            | Práctico Final pt. 1 |
 | 30-10       | No           | -                                                            | Módulo 10 y 11       |
 | 04-11       | -            | -                                                            | Módulo 12 y 13       |
-| 11-11       | -            | -                                                            | Módulo 14 o 15       |
+| 11-11       | -            | -                                                            | Módulo 14 + OSPF     |
 | 18-11       | -            | -                                                            | Práctica Final pt. 2 |
 | **24-11**   | **-**        | **PLAZO ENTREGA TAREAS**                                     | **-**                |
 | 25-11       | -            | Apertura Exámenes Finales con Profe Canumán.                 | -                    |

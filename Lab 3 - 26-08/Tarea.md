@@ -1,4 +1,4 @@
-# Retomando tareas anteriores
+	# Retomando tareas anteriores
 
 Según lo visto con anterioridad, se determinó la siguiente tarea:
 
